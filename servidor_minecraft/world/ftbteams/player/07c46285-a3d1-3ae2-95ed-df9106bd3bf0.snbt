@@ -1,0 +1,17 @@
+{
+	id: "07c46285-a3d1-3ae2-95ed-df9106bd3bf0"
+	type: "player"
+	player_name: "bl4cksn0w230"
+	ranks: {
+		07c46285-a3d1-3ae2-95ed-df9106bd3bf0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "bl4cksn0w230"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59D6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

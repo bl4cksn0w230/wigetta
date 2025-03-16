@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "07c46285a3d13ae295eddf9106bd3bf0"
+	name: "bl4cksn0w230"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}
